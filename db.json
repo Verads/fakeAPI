@@ -1,5 +1,5 @@
 {
-    "books": {
+    "books": [
         {
             "id": 1,
             "name": "Rosa",
@@ -180,5 +180,5 @@
             "author": "Andrea Viviana Taubman & Camila Carrosine",
             "indicated": "Pequenos a partir de 6 anos"
         }
-    }
+    ]
 }
